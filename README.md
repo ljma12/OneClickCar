@@ -61,11 +61,7 @@ Cada miembro del equipo desempeñó un papel crucial en el desarrollo del proyec
 - **Rol:** Implementación de una estructura de navegación con una navbar en JavaScript.
 - **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-ljma12-black?style=flat&logo=github)](https://github.com/ljma12)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20José%20Melendez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luisjosemelendezarvizu)
-
-### Luis Antonio Rosas
-- **Rol:** Creación de la página de registro de usuarios y conexión de base de datos MySQL con el proyecto Spring Boot.
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Arencito-black?style=flat&logo=github)](https://github.com/Arencito)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Antonio%20Rosas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-antonio-rosas-sol%C3%ADs-407a37279/)
+  
 
 
 ## Proceso de Desarrollo
